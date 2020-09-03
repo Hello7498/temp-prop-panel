@@ -54,7 +54,7 @@
     "browserify": "^13.0.0",
     "camunda-bpmn-moddle": "^0.13.0",
     "chai": "^4.1.2",
-    "diagram-js": "^0.28.1",
+    "diagram-js": "^2.6.2",
     "eslint": "^2.11.1",
     "eslint-plugin-mocha": "^2.2.0",
     "grunt": "^0.4.4",
